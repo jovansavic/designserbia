@@ -18,12 +18,12 @@
 
 HOME_PAGE:
   HERO_TITLE: Dizajn zajednica osnovana sa ciljem da pomogne napretku i deljenju znanja dizajnera u Srbiji
-  BTN_CTA_LINK: https://docs.google.com/forms/d/e/1FAIpQLSf1CYZ1Rk8qg4Pb7zM4ztlC8vkl4eG8Jws-cY0WHeGI0P4DnA/viewform
+  BTN_CTA_LINK: https://www.meetup.com/designserbia/
 
 
 
 
-title: "Frasco: Jekyll Starter Project"
+title: "Podeli znanje i napreduj"
 email: your-email@domain.com
 description: >- # this means to ignore newlines until "baseurl:"
   Quick starter project for Jekyll including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc.
